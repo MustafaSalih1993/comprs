@@ -3,7 +3,8 @@ name = "comprs"
 version = "0.0.0"
 authors = ["Mustafa <mustafasalih1991@gmail.com>"]
 edition = "2018"
-
+description = 'Compressing tool'
+license = 'MIT'
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
